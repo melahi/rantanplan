@@ -1,0 +1,12 @@
+mv planes_1.pddl pfile1
+mv planes_2.pddl pfile2
+mv planes_3.pddl pfile3
+mv planes_4.pddl pfile4
+mv planes_5.pddl pfile5
+mv planes_6.pddl pfile6
+mv planes_7.pddl pfile7
+mv planes_8.pddl pfile8
+mv planes_9.pddl pfile9
+mv planes_10.pddl pfile10
+mv planes_11.pddl pfile11
+mv planes_12.pddl pfile12
